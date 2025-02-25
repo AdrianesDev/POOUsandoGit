@@ -1,3 +1,4 @@
-import UIKit
+import Foundation
+import SwiftUI
 
-var greeting = "Hello, playground"
+var numero: Int = 0
